@@ -10,7 +10,6 @@ https://libgdx.badlogicgames.com/documentation/gettingstarted/Creating%20Project
 
 Limited validation was performed in 2014 for the trail making and reaction time tests. The IEEE paper can be downloaded here:
 
-https://www.researchgate.net/publication/295106328_Mobile_Framework_for_Cognitive_Assessment_Trail_Making_Test_an
-d_Reaction_Time_Test
+https://www.researchgate.net/publication/295106328_Mobile_Framework_for_Cognitive_Assessment_Trail_Making_Test_and_Reaction_Time_Test
 
 Please read the DISCLAIMER before using any of this code.
