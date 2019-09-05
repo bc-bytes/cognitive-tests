@@ -9,3 +9,17 @@ the "Download LibGDX project setup tool link").
 If you use any part of this code in a research project, please consider citing [our paper](https://www.researchgate.net/publication/295106328_Mobile_Framework_for_Cognitive_Assessment_Trail_Making_Test_and_Reaction_Time_Test).
 
 Also, please read the DISCLAIMER before using any of this code.
+
+Trail Making
+
+![trail making picture 1](https://github.com/bc-bytes/cognitive-tests/raw/master/src/common/images/tm1.png "trail making picture 1")
+
+![trail making picture 2](https://github.com/bc-bytes/cognitive-tests/raw/master/src/common/images/tm2.png "trail making picture 2")
+
+Reaction Time
+
+![reaction time picture](https://github.com/bc-bytes/cognitive-tests/raw/master/src/common/images/rtt.png "reaction time picture")
+
+Paired Associates Learning
+
+![paired associates learning](https://github.com/bc-bytes/cognitive-tests/raw/master/src/common/images/pal.png "paired associates learning")
