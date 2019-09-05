@@ -12,14 +12,14 @@ Also, please read the DISCLAIMER before using any of this code.
 
 Trail Making
 
-![trail making picture 1](https://github.com/bc-bytes/cognitive-tests/raw/master/src/common/images/tm1.png "trail making picture 1")
+![trail making picture 1](https://github.com/bc-bytes/cognitive-tests/blob/master/images/tm1.png "trail making picture 1")
 
-![trail making picture 2](https://github.com/bc-bytes/cognitive-tests/raw/master/src/common/images/tm2.png "trail making picture 2")
+![trail making picture 2](https://github.com/bc-bytes/cognitive-tests/blob/master/images/tm2.png "trail making picture 2")
 
 Reaction Time
 
-![reaction time picture](https://github.com/bc-bytes/cognitive-tests/raw/master/src/common/images/rtt.png "reaction time picture")
+![reaction time picture](https://github.com/bc-bytes/cognitive-tests/blob/master/images/rtt.png "reaction time picture")
 
 Paired Associates Learning
 
-![paired associates learning](https://github.com/bc-bytes/cognitive-tests/raw/master/src/common/images/pal.png "paired associates learning")
+![paired associates learning](https://github.com/bc-bytes/cognitive-tests/blob/master/images/pal.png "paired associates learning")
