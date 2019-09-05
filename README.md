@@ -10,16 +10,16 @@ If you use any part of this code in a research project, please consider citing [
 
 Also, please read the DISCLAIMER before using any of this code.
 
-Trail Making
+## Trail Making
 
 ![trail making picture 1](https://github.com/bc-bytes/cognitive-tests/blob/master/images/tm1.png "trail making picture 1")
 
 ![trail making picture 2](https://github.com/bc-bytes/cognitive-tests/blob/master/images/tm2.png "trail making picture 2")
 
-Reaction Time
+## Reaction Time
 
 ![reaction time picture](https://github.com/bc-bytes/cognitive-tests/blob/master/images/rtt.png "reaction time picture")
 
-Paired Associates Learning
+## Paired Associates Learning
 
 ![paired associates learning](https://github.com/bc-bytes/cognitive-tests/blob/master/images/pal.png "paired associates learning")
