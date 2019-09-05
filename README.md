@@ -8,8 +8,8 @@ the "Download LibGDX project setup tool link"):
 
 https://libgdx.badlogicgames.com/documentation/gettingstarted/Creating%20Projects.html
 
-Limited validation was performed in 2014 for the trail making and reaction time tests. The IEEE paper can be downloaded here:
+If you use any part of this code in your research, please remember to cite our paper:
 
 https://www.researchgate.net/publication/295106328_Mobile_Framework_for_Cognitive_Assessment_Trail_Making_Test_and_Reaction_Time_Test
 
-Please read the DISCLAIMER before using any of this code.
+Also,please read the DISCLAIMER before using any of this code.
