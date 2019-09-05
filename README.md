@@ -12,4 +12,4 @@ If you use any part of this code in your research, please remember to cite our p
 
 https://www.researchgate.net/publication/295106328_Mobile_Framework_for_Cognitive_Assessment_Trail_Making_Test_and_Reaction_Time_Test
 
-Also,please read the DISCLAIMER before using any of this code.
+Also, please read the DISCLAIMER before using any of this code.
