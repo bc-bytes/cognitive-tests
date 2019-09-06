@@ -7,22 +7,22 @@ package com.bc.memorytest;
  */
 public class PALStage
 {
-	private int numberOfSets;
-	private int numberOfShapes;
-	
-	public PALStage(int numberOfSets, int numberOfShapes)
-	{
-		this.numberOfSets = numberOfSets;
-		this.numberOfShapes = numberOfShapes;
-	}
-	
-	public int getNumberOfSets()
-	{
-		return numberOfSets;
-	}
-	
-	public int getNumberOfShapes()
-	{
-		return numberOfShapes;
-	}
+    private int numberOfSets;
+    private int numberOfShapes;
+    
+    public PALStage(int numberOfSets, int numberOfShapes)
+    {
+        this.numberOfSets = numberOfSets;
+        this.numberOfShapes = numberOfShapes;
+    }
+    
+    public int getNumberOfSets()
+    {
+        return numberOfSets;
+    }
+    
+    public int getNumberOfShapes()
+    {
+        return numberOfShapes;
+    }
 }

@@ -20,11 +20,11 @@ public class ScreenshotFactory
     {
         try
         {
-        	Gdx.files.local(filename + ".png").delete();
+            Gdx.files.local(filename + ".png").delete();
             FileHandle fh = Gdx.files.local(filename + ".png");
             if (fh.exists())
             {
-            	fh.delete(); // delete file if it exists
+                fh.delete(); // delete file if it exists
             }
             
 //            do
@@ -40,7 +40,7 @@ public class ScreenshotFactory
         }
         catch (Exception e)
         {
-        	System.out.println(e);
+            System.out.println(e);
         }
     }
 
