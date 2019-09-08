@@ -8,7 +8,7 @@ the "Download LibGDX project setup tool link").
 
 If you use any part of this code in a research project, please consider citing [our paper](https://www.researchgate.net/publication/295106328_Mobile_Framework_for_Cognitive_Assessment_Trail_Making_Test_and_Reaction_Time_Test).
 
-Also, please read the DISCLAIMER before using any of this code.
+Please read the DISCLAIMER before using any of this code.
 
 ## Trail Making
 
