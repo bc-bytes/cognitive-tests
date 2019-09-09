@@ -27,6 +27,11 @@ import com.badlogic.gdx.utils.GdxRuntimeException;
 import com.badlogic.gdx.utils.StringBuilder;
 import com.bc.memorytest.Globals.AppState;
 
+/**
+ * Class to handle all Paired Associates Learning logic.
+ * 
+ * @author Bill Cassidy
+ */
 public class Test3 implements InputProcessor
 {
     private Globals globals;
