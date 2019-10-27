@@ -8,22 +8,22 @@ the "Download LibGDX project setup tool link").
 
 If you use any part of this code in a research project, please consider citing [our paper](https://www.researchgate.net/publication/295106328_Mobile_Framework_for_Cognitive_Assessment_Trail_Making_Test_and_Reaction_Time_Test):
 
-```
+```BibTex
 @inproceedings{Cassidy:2014:MFC:2704571.2704662,
- author = {Cassidy, Bill and Stringer, Gemma and Yap, Moi Hoon},
- title = {Mobile Framework for Cognitive Assessment: Trail Making Test and Reaction Time Test},
+ author    = {Cassidy, Bill and Stringer, Gemma and Yap, Moi Hoon},
+ title     = {Mobile Framework for Cognitive Assessment: Trail Making Test and Reaction Time Test},
  booktitle = {Proceedings of the 2014 IEEE International Conference on Computer and Information Technology},
- series = {CIT '14},
- year = {2014},
- isbn = {978-1-4799-6239-6},
- pages = {700--705},
- numpages = {6},
- url = {https://doi.org/10.1109/CIT.2014.164},
- doi = {10.1109/CIT.2014.164},
- acmid = {2704662},
+ series    = {CIT '14},
+ year      = {2014},
+ isbn      = {978-1-4799-6239-6},
+ pages     = {700--705},
+ numpages  = {6},
+ url       = {https://doi.org/10.1109/CIT.2014.164},
+ doi       = {10.1109/CIT.2014.164},
+ acmid     = {2704662},
  publisher = {IEEE Computer Society},
- address = {Washington, DC, USA},
- keywords = {Java, LibGDX, cognitive assessment, mobile, reaction time, trail making},
+ address   = {Washington, DC, USA},
+ keywords  = {Java, LibGDX, cognitive assessment, mobile, reaction time, trail making},
 } 
 ```
 
