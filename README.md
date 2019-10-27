@@ -1,4 +1,4 @@
-# cognitive-tests
+# Mobile Cognitive Tests: Trail Making Test, Reaction Time Test, and Paired Associates Learning
 Java source code for three types of cognitive tests - trail making,
 reaction time, and paired associates learning. The target framework is libGDX.
 
