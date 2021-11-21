@@ -1,0 +1,367 @@
+
+sprite_pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Hand
+  rotate: false
+  xy: 1, 429
+  size: 420, 594
+  orig: 420, 594
+  offset: 0, 0
+  index: -1
+Circle1
+  rotate: false
+  xy: 1, 227
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle10
+  rotate: false
+  xy: 423, 823
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle11
+  rotate: false
+  xy: 1, 25
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle12
+  rotate: false
+  xy: 203, 227
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle13
+  rotate: false
+  xy: 423, 621
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle14
+  rotate: false
+  xy: 625, 823
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle15
+  rotate: false
+  xy: 203, 25
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle16
+  rotate: false
+  xy: 625, 621
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle17
+  rotate: false
+  xy: 423, 419
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle18
+  rotate: false
+  xy: 625, 419
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle19
+  rotate: false
+  xy: 405, 217
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle2
+  rotate: false
+  xy: 607, 217
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle20
+  rotate: false
+  xy: 405, 15
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle21
+  rotate: false
+  xy: 607, 15
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle22
+  rotate: false
+  xy: 809, 217
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle23
+  rotate: false
+  xy: 809, 15
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+WhiteSquare1
+  rotate: false
+  xy: 827, 925
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+WhiteSquare2
+  rotate: false
+  xy: 827, 825
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+WhiteSquareX
+  rotate: false
+  xy: 827, 725
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+PALShape2
+  rotate: false
+  xy: 1, 1
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+PALShape10
+  rotate: false
+  xy: 927, 983
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+PALShape3
+  rotate: false
+  xy: 827, 699
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+PALShape5
+  rotate: false
+  xy: 927, 937
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+PALShape7
+  rotate: false
+  xy: 46, 2
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+PALShape1
+  rotate: false
+  xy: 964, 1009
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+PALShape4
+  rotate: false
+  xy: 827, 668
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+PALShape8
+  rotate: false
+  xy: 827, 636
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+PALShape9
+  rotate: false
+  xy: 878, 707
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+PALShape6
+  rotate: false
+  xy: 927, 899
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+
+sprite_pack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Circle24
+  rotate: false
+  xy: 1, 809
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle25
+  rotate: false
+  xy: 1, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle3
+  rotate: false
+  xy: 203, 809
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle4
+  rotate: false
+  xy: 1, 405
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle5
+  rotate: false
+  xy: 203, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle6
+  rotate: false
+  xy: 405, 809
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle7
+  rotate: false
+  xy: 1, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle8
+  rotate: false
+  xy: 203, 405
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Circle9
+  rotate: false
+  xy: 405, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CircleA
+  rotate: false
+  xy: 607, 809
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CircleB
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CircleC
+  rotate: false
+  xy: 203, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CircleD
+  rotate: false
+  xy: 405, 405
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CircleE
+  rotate: false
+  xy: 607, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CircleF
+  rotate: false
+  xy: 809, 809
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CircleG
+  rotate: false
+  xy: 203, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CircleH
+  rotate: false
+  xy: 405, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CircleI
+  rotate: false
+  xy: 607, 405
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CircleJ
+  rotate: false
+  xy: 809, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CircleK
+  rotate: false
+  xy: 405, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CircleL
+  rotate: false
+  xy: 607, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
