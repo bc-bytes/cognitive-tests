@@ -6,6 +6,8 @@ You will need to create a new libGDX project to import these Java
 classes into. Instructions on how to do that can be found [here](https://libgdx.badlogicgames.com/documentation/gettingstarted/Creating%20Projects.html) (click on
 the "Download LibGDX project setup tool link").
 
+Note that this code was written in 2014, so you may find it easier to use a libGDX version from that year as functionality of the framework may have changed since.
+
 If you use any part of this code in a research project, please consider citing [our paper](https://www.researchgate.net/publication/295106328_Mobile_Framework_for_Cognitive_Assessment_Trail_Making_Test_and_Reaction_Time_Test):
 
 ```BibTex
