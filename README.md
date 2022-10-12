@@ -3,7 +3,7 @@ Java source code for three types of cognitive tests - trail making,
 reaction time, and paired associates learning. The target framework is libGDX.
 
 You will need to create a new libGDX project to import these Java
-classes into. Instructions on how to do that can be found [here]https://libgdx.com/wiki/start/project-generation).
+classes into. Instructions on how to do that can be found [here](https://libgdx.com/wiki/start/project-generation).
 
 Note that this code was written in 2014, so you may find it easier to use a libGDX version from that year as functionality of the framework may have changed since. Please also note that we do not offer any technical support.
 
